@@ -1,0 +1,30 @@
+{
+    "title": "HK JTS FASHION CO., LIMITED",
+    "label": "Home",
+    "description": "Established in 2009, a manufacturer and trader specialized in the sourcing, development and production of fashion accessories, such as lady bag, Jewelry, Hair accessories, Watch and fashion accessories.\r\n\r\nWe are located in Shenzhen, with convenient transportation access. All of our products comply with international quality standards and are greatly appreciated in a variety of different markets throughout the world. If you are interested in any of our products or would like to discuss a custom order, please feel free to contact us. We are looking forward to forming successful business relationships with new clients around the world.",
+    "date": "2022-04-19",
+    "image": "s.jpg",
+    "context": {
+        "classes": "separator"
+    },
+    "folders": {
+        "crop": {
+            "enabled": true
+        },
+        "items": "title,description,preview",
+        "caption": {
+            "enabled": true,
+            "items": "amount"
+        },
+        "limit": 3
+    },
+    "gallery": {
+        "layout": "slideshow",
+        "slideshow": {
+            "background": true,
+            "button_down": true,
+            "loop": true,
+            "autoplay": true
+        }
+    }
+}

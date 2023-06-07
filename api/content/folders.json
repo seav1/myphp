@@ -1,0 +1,42 @@
+{
+    "index": {
+        "url": "index",
+        "index": 1
+    },
+    "contact": {
+        "url": "contact",
+        "index": 6
+    },
+    "Jewellery": {
+        "url": "Jewellery",
+        "index": 2
+    },
+    "Watch": {
+        "url": "Watch",
+        "index": 3
+    },
+    "Jewellery\/necklace": {
+        "url": "Jewellery\/necklace",
+        "index": 1
+    },
+    "Hat": {
+        "url": "Hat",
+        "index": 5
+    },
+    "Jewellery\/bracelet": {
+        "url": "Jewellery\/bracelet",
+        "index": 2
+    },
+    "Jewellery\/earring": {
+        "url": "Jewellery\/earring",
+        "index": 3
+    },
+    "Jewellery\/ring": {
+        "url": "Jewellery\/ring",
+        "index": 4
+    },
+    "Bag": {
+        "url": "Bag",
+        "index": 4
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "style": {
+        "logo": {
+            "title": "JTS"
+        }
+    },
+    "back": {
+        "custom": {
+            "footer": "<!-- ICON BUTTONS START -->\r\n<div class=\"icon-buttons hover-color hover-title\">\r\n  <a href=\"https:\/\/www.facebook.com\/hkjts\"><\/a>\r\n  <a href=\"https:\/\/twitter.com\/hkjts\"><\/a>\r\n  <a href=\"https:\/\/www.hkjts.com\" data-icon=\"asterisk\" data-color=\"#78A64F\" title=\"JTS\"><\/a>\r\n  <a href=\"\/contact\/\" title=\"Contact me\"><\/a>\r\n\r\n  <!-- MORE EXAMPLES -->\r\n  <!-- <a href=\"https:\/\/flamepix.com\" data-icon=\"fire\" data-color=\"brown\"><\/a>\r\n  <a href=\"https:\/\/mjau-mjau.com\" data-icon=\"paw\" data-color=\"#FFC000\"><\/a>\r\n  <a href=\"https:\/\/www.youtube.com\/embed\/G46ygBKsTZI\" data-popup data-popup-class=\"x3-popup-iframe-full\" title=\"Youtube Video in popup\"><\/a>\r\n  <a href=\"https:\/\/demo.photo.gallery\/render\/w1024-q90\/3.examples\/assets\/corn-field.jpg\" data-icon=\"photo\" data-popup title=\"Corn Field\"><\/a> -->\r\n\r\n<\/div>\r\n<!-- ICON BUTTONS END -->\r\n\r\n<!-- Add a dynamic website link '© year website' at bottom of footer -->\r\n{{copy}}\r\n<p><script id=\"ebsgovicon\" src=\"https:\/\/szcert.ebs.org.cn\/govicons.js?id=2d652e7f-8feb-441b-ac4a-8b35efafe431&width=36&height=50&type=1\" type=\"text\/javascript\" charset=\"utf-8\"><\/script><\/p>\r\n<p><a href=\"https:\/\/beian.miit.gov.cn\/\">粤ICP备19087156号<\/a><\/p>\r\n<div style=\"width:300px;margin:0 auto; padding:20px 0;\">\r\n\t<a target=\"_blank\" href=\"http:\/\/www.beian.gov.cn\/portal\/registerSystemInfo?recordcode=44030502008360\" style=\"display:inline-block;text-decoration:none;height:20px;line-height:20px;\"><img src=\"https:\/\/hkjts.com\/ba.png\" style=\"float:left;\"\/><p style=\"float:left;height:20px;line-height:20px;margin: 0px 0px 0px 5px; color:#939393;\">粤公网安备 44030502008360号<\/p><\/a>\r\n<\/div>\r\n\t\t \r\n<!-- Adding custom links to footer requires a valid X3 License! -->"
+        },
+        "mail": {
+            "to": "justin@hkjts.com",
+            "from": "yzzfzd@163.com",
+            "response_text": "Thanks! We will get in touch with you shortly.",
+            "use_smtp": true,
+            "host": "smtp.163.com",
+            "username": "yzzfzd@163.com",
+            "password": "Yzzfzd515642",
+            "SMTPSecure": "ssl",
+            "port": 465
+        },
+        "panel": {
+            "username": "Justin",
+            "first_name": "Justin",
+            "last_name": "Fu",
+            "email": "justin@hkjts.com",
+            "language": "Chinese",
+            "password": "$2y$10$tDt2WBB0106z8gL7xuGFkeBzCbPDeuwKQFqujdNnRjUw4w3zpHVXu"
+        }
+    },
+    "settings": {
+        "diagnostics": false
+    },
+    "x": 1
+}

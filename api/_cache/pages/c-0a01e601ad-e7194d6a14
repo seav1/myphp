@@ -1,0 +1,12 @@
+<li><a href="/" class="needsclick">Home</a></li><li class="has-dropdown"><a href="/Jewellery/" class="needsclick node">Jewellery</a><ul class="dropdown"><li><a href="/Jewellery/necklace/" class="needsclick">Necklace</a></li><li><a href="/Jewellery/bracelet/" class="needsclick">Bracelet</a></li><li><a href="/Jewellery/earring/" class="needsclick">Earring</a></li><li><a href="/Jewellery/ring/" class="needsclick">Ring</a></li></ul></li><li><a href="/Watch/" class="needsclick">Watch</a></li><li><a href="/Bag/" class="needsclick">Bag</a></li><li><a href="/Hat/" class="needsclick">Hat</a></li><li data-options="mega:data;items:contactform,hr,icon-buttons;width:320;"><a href="/contact/" class="needsclick">Contact</a><div class="hide"><form data-abide class="contactform">
+	<div>
+		<input required type="text" name="name" placeholder="Name">
+	</div>
+	<div>
+		<input required type="email" name="email" placeholder="Email">
+	</div>
+	<div>
+		<textarea required name="message" placeholder="What's up?"></textarea>
+	</div>
+	<button type="submit">Send</button>
+</form><hr><div class="menu-icon-buttons"></div></div></li>
